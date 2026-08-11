@@ -1,0 +1,46 @@
+---
+title: "OACP-W06-Google Merchant Center"
+subtitle: "Shopify to Google Merchant Center Connection Lab"
+author: "Leeann Lewis-Waddell"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# **Introduction**
+
+-   Briefly describe your Shopify practice store.
+
+# **Connection Attempt Evidence**
+
+-   Include screenshots showing your attempt to connect Shopify to Google Merchant Center.
+
+# **Product Sync or Product Listing Evidence**
+
+-   Include screenshots and explanation of whether your products synced, partially synced, or were blocked.
+
+# **Setup Barriers and Warnings**
+
+-   Describe any problems, warnings, errors, or missing requirements you encountered.
+
+# **Fixes Needed**
+
+-   Explain what would need to be fixed before the store could realistically use Google Merchant Center.
+
+# **CPP Farm Store Reflection**
+
+-   Write a 250–400 word reflection applying your experience to CPP Farm Store.
+
+# Appendix
+
+-   GitHub Repo
+
+-   GitHub Pages
